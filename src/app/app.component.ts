@@ -8,7 +8,7 @@ import { Component, ViewChild } from '@angular/core';
 export class AppComponent {
   otp: string;
   showOtpComponent = true;
-  @ViewChild('ngOtpInput') ngOtpInput: any;
+  @ViewChild('ngOtpInput', { static: false }) ngOtpInput: any;
   config = {
     allowNumbersOnly: false,
     length: 5,

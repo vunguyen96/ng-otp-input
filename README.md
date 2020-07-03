@@ -1,3 +1,4 @@
+Vu Nguyen here
 # ng-otp-input
 [![Npm Version](https://img.shields.io/badge/npm-v1.7.1-blue.svg)](https://www.npmjs.com/package/ng-otp-input) 
 
